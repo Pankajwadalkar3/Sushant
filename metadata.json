@@ -1,0 +1,5 @@
+{
+  "name": "LegacyForge AI",
+  "description": "An intelligent legacy modernization tool that transforms COBOL source code into modern .NET or Java architectures using Gemini 2.5.",
+  "requestFramePermissions": []
+}
